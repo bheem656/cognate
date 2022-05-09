@@ -360,7 +360,7 @@ void loop()
   // Serial1.println(start_sw);
   //
   // Serial1.println("...................................");
-  RS = 1;
+//  RS = 1;
   if (RS)
   {
     Serial1.print("RS Status ....: ");
